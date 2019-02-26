@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+.bar {
+  background-color: teal;
+  height: 20px;
+  margin-top: 2px;
+}
+.science {
+  background-color: goldenrod;
+  height: 20px;
+  margin-top: 2px;
+}
+.math {
+  background-color: maroon;
+  height: 20px;
+  margin-top: 2px;
+}
