@@ -21,3 +21,8 @@ a {
   height: 20px;
   margin-top: 2px;
 }
+#chart {
+  position: relative;
+  padding: 10px 10px 20px 50px;
+  margin-bottom: 20px;
+}
